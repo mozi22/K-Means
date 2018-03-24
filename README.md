@@ -13,7 +13,7 @@ KMean(importdata('path_to_dataset.txt'),K)
 
 ## License
 ```
-Copyright 2015 Muazzam Ali
+Copyright © 2018 Muazzam Ali
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
